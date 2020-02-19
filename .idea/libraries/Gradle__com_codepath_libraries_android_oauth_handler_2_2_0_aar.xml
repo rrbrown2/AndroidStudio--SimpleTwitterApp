@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codepath.libraries:android-oauth-handler:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae2685b6d9ea04ca3a0090737e2ef7f3/android-oauth-handler-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae2685b6d9ea04ca3a0090737e2ef7f3/android-oauth-handler-2.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codepath.libraries/android-oauth-handler/2.2.0/33010a78760f6158b16ebb13bca9c360384eded6/android-oauth-handler-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
